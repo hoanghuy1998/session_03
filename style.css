@@ -99,7 +99,7 @@ body {
         align-content: center; }
 
 .banner {
-  margin-top: 3rem; }
+  margin-top: 2.9rem; }
 
 .main__first {
   background-color: #f4f4f4;
@@ -347,7 +347,7 @@ body {
       .header__catelory i {
         font-size: 2rem; }
         .header__catelory i:hover {
-          font-size: 2.5rem;
+          transform: scale(1.2);
           background-color: white; }
 
   .nav__menu ul {
